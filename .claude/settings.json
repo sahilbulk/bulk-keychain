@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git --no-pager diff -- Cargo.toml package.json packages/bulk-keychain-node/package.json crates/bulk-keychain-python/pyproject.toml Cargo.lock)"
+    ]
+  }
+}
